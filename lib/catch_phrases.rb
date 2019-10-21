@@ -8,4 +8,6 @@ def toadstool
   puts status
 end
 def link_to_remote
-  phrase = "I"
+  phrase = "It's Dangerous To Go Alone! Take This."
+  puts phrase
+end
